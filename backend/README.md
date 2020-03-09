@@ -2,7 +2,7 @@
 
 Bem-vindo ao teste para desenvolvedor backend da IOUU. 
 Se porventura você caiu aqui do nada, leia este documento e se por acaso se interessar, pode começar o processo a partir daqui. ;p
-Basta enviar um email para llana@iouu.com.br.
+Basta enviar um email para dev@iouu.com.br.
 
 # Instruções
 
@@ -44,7 +44,7 @@ Basta enviar um email para llana@iouu.com.br.
  - Usar boas práticas de programação
  - Boa documentação
 
-Em caso de dúvidas, favor enviar email para llana@iouu.com.br
+Em caso de dúvidas, favor enviar email para dev@iouu.com.br
 
  ***Vai lá e brilha!!!***
 
