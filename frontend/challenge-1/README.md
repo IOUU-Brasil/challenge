@@ -16,6 +16,8 @@ Sinta-se à vontade para componentizar o que achar que deve ser componentizado.
 Só gostariamos que o teste fosse realizado com Javascript puro, nosso querido vanilla. O que acha de encarar o desafio?
 
 O estado atual da calculadora:
+
+
 <img style="display: block; margin: 0 auto;" src="./layout.jpg">
 
 
