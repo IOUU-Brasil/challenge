@@ -76,7 +76,7 @@ Por fim, você deve exibir o valor da parcela no campo correspondente a cada mud
 ## Desenvolvimento
 
 ### Pré-requisitos
-Você precisa minimamente do [NodeJs](https://nodejs.org/en/) instalado para rodar a apliação e o [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) para baixar o repositório e submeter um pull-request
+Você precisa minimamente do [NodeJs](https://nodejs.org/en/) instalado para rodar a aplicação e o [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) para baixar o repositório e submeter um pull-request
 
 ### Configurações para rodar o ambiente
 
@@ -103,4 +103,4 @@ npm test
 ```
 
 ## Feedback (opcional)
-Aqui na IOUU o feedback faz parte da nossa cultura, seria muito gratificante se, tendo concluído ou não o teste, você pudesse contribuir com nosso processo de contração respondendo [este pequeno questionário.](https://docs.google.com/forms/d/e/1FAIpQLSdTNMc2JqnvNxy4J3gAN-vQqsfG6PscH5hVQRC9dyMK1PlnRw/viewform?usp=sf_link)
+Aqui na IOUU o feedback faz parte da nossa cultura, seria muito gratificante se, tendo concluído ou não o teste, você pudesse contribuir com nosso processo de contração respondendo [este pequeno questionário.](https://docs.google.com/forms/d/e/1FAIpQLSd96yTgUoiLEzAovYFlU2mQKRohyNsJ8qxaZBx2tyditlewHQ/viewform)
